@@ -1,0 +1,2 @@
+# Exploratory-Data-Analysis-using-Python-Numpy-Pandas-Matplotlib-Seaborn-and-sklearn
+This dataset pertains to the direct marketing campaigns of a banking institution in Portugal.  The campaigns primarily involved making phone calls to potential clients. Multiple contacts  were often made with the same client to determine whether they would subscribe to a bank  term deposit or not. The outcome was recorded as either 'yes' or 'no'.
